@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ 
 - 📫 How to reach me ... by joining my telegram channel https://t.me/levi2341
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- 
 
 <!---
 leviAckerman1122/leviAckerman1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
